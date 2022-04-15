@@ -2,6 +2,7 @@
 Detect smurfing players in dota2 using fuzzy logic approach
 User Tutorial:
    Test.py requires python3.9 with fuzzy-expert pacakge installed: https://jdvelasq.github.io/fuzzy-expert/ <br />
+   run test.py in the command line as python3.9 test.py<br />
    smurf_data.json consists of data from 4 smurfing players in 20 specific matches<br />
    normal_data.json consists of data from 72 normal players in those matches<br />
    Following the label in test.py, our data is allocated like this:<br />
